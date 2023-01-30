@@ -1,0 +1,9 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+    background-image: linear-gradient(to right top, #6f4eee, #0085ff, #00a4fa, #00bad0, #00c9a7);
+}
